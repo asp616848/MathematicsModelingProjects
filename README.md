@@ -6,3 +6,4 @@ FLOW:
 2. Epidemic Modelling (SIR)
 3. Probability and Pandas
 4. Viterbi and forward algorithms
+
